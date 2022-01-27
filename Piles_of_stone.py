@@ -6,3 +6,11 @@ for number in temp:
     print("")
     for j in range(a,(2*a + 1),2):
         print(j,end='\t')
+
+        
+Output
+2	4	
+10	12	14	16	18	20	
+3	5	
+17	19	21	23	25	27	29	31	33	
+Process finished with exit code 0
